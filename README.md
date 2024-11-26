@@ -81,18 +81,6 @@ Special thanks to the developers and resources that inspired this project. For m
 
 ---
 
-Feel free to customize this README file with your project's specific details and visuals!
-
-Citations:
-- [Video tutorial on React and Django integration](https://www.youtube.com/watch?v=WsBYK5Nv2V8)
-- [Using Django with React for full-stack development](https://stackoverflow.com/questions/64692155/how-to-use-django-db-sqlite3-as-a-database-for-react-to-store-data)
-- [Django and React with custom primary keys](https://forum.djangoproject.com/t/how-to-connect-an-existing-sqlite-database-with-custom-primary-keys-to-django/33483)
-- [Integrating Django with ReactJS using Django REST Framework](https://www.geeksforgeeks.org/integrating-django-with-reactjs-using-django-rest-framework/)
-- [Connecting Django with ReactJS](https://www.geeksforgeeks.org/how-to-connect-django-with-reactjs/)
-- [How to use React with Django](https://www.youtube.com/watch?v=9dwyXq9G_MQ)
-- [Using React with Django](https://www.codewalnut.com/learn/can-i-use-react-js-with-django)
-- [Understanding MERN Stack](https://www.geeksforgeeks.org/mern-stack/)
-
 ---
 
 Let me know if you need any further adjustments!
