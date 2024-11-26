@@ -82,5 +82,3 @@ Special thanks to the developers and resources that inspired this project. For m
 ---
 
 ---
-
-Let me know if you need any further adjustments!
