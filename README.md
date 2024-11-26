@@ -7,6 +7,8 @@ Here is a corrected version of the README:
 ## Project Overview
 **Market Minds** is a full-stack platform designed to enhance financial education. It empowers users to learn about the stock market, trading, IPOs, and mutual funds through curated educational resources, including books, YouTube videos, and courses.
 
+![Market Minds Screenshot](C:\Users\SMIT PATEL\OneDrive\Pictures\Screenshots\Screenshot (15).png)
+
 
 ## Features
 - **User Authentication:** Secure login/signup functionality for a personalized user experience.
