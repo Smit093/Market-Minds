@@ -7,7 +7,6 @@ Here is a corrected version of the README:
 ## Project Overview
 **Market Minds** is a full-stack platform designed to enhance financial education. It empowers users to learn about the stock market, trading, IPOs, and mutual funds through curated educational resources, including books, YouTube videos, and courses.
 
-![Market Minds Screenshot][([[link-to-your-screenshot](https://console.cloudinary.com/console/c-c8752de425e48160d8111efac41e64/media_library/homepage/asset/362440cce378b5277b0d8af1323e3c12/manage?context=manage)](https://asset.cloudinary.com/dldupf8ln/98a6828c7e94171752c921c36d6d5c26)) <!-- Replace with actual image link -->](https://asset.cloudinary.com/dldupf8ln/98a6828c7e94171752c921c36d6d5c26)
 
 ## Features
 - **User Authentication:** Secure login/signup functionality for a personalized user experience.
