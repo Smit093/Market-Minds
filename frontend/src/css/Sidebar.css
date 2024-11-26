@@ -1,0 +1,42 @@
+
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #111827;
+    border-right: 1px solid #111827;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    z-index: 10; 
+    overflow-y: auto; 
+}
+
+.sidebar img {
+    width: auto;
+    height: 3rem;
+    
+}
+
+.sidebar a {
+    background-color: #ffffff;
+    text-decoration: none;
+}
+
+.sidebar .active {
+    color: #f97316; 
+    background-color: #f3f4f6; 
+}
+
+.sidebar a:hover {
+    background-color: #60a5fa;
+    color: #ffffff; 
+}
+
+.sidebar .log-in,
+.sidebar .get-started {
+    margin-top: auto;
+}

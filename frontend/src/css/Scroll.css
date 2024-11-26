@@ -1,0 +1,42 @@
+/* Scroll.css */
+
+/* Title section */
+.title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* Wrapper for FAQ items */
+.faq-wrapper {
+  display: flex;
+  gap: 2rem; /* Adjust spacing between FAQ items */
+}
+
+/* Individual FAQ items */
+.faq-item {
+  background: 'pastel-green';
+  color: 'dark-teal'; /* Light text color */
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Subtle shadow to stand out on dark background */
+  width: 300px; /* Fixed width for each FAQ item */
+}
+
+/* FAQ question styling */
+.faq-question {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+/* FAQ answer styling */
+.faq-answer {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Ensure images are responsive and fit their container */
+img {
+  max-width: 100%;
+  height: auto;
+}

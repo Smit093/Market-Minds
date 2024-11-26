@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.transition-margin {
+    transition: margin 0.3s ease;
+}
+
+html {
+    scroll-behavior: smooth;
+}

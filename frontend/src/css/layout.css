@@ -1,0 +1,10 @@
+/* MainContent.css */
+.layout {
+    position: relative;
+    min-height: 100vh;
+    background-image: url('https://www.5paisa.com/finschool/wp-content/uploads/2022/08/courses-hero.png'); /* Replace with your image path */
+    background-size: cover; /* Adjust to cover the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent image repetition */
+  }
+  
