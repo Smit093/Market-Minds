@@ -75,9 +75,6 @@ Before you begin, make sure you have the following installed:
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 Special thanks to the developers and resources that inspired this project. For more detailed tutorials on integrating React with Django, check out [this tutorial](https://www.youtube.com/watch?v=WsBYK5Nv2V8).
 
